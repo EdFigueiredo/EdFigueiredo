@@ -1,8 +1,4 @@
 ### Olá, eu sou o Edson Figueiredo 👋
-
-
-- 🔭 Hoje trabalho com back-end
-- 📚 Estudando PHP OO e JavaScript
  <div>
   <a href="https://github.com/edfigueiredo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edfigueiredo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
