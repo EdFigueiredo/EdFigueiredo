@@ -1,10 +1,10 @@
 Hi 👋 My name is Edson Figueiredo
 ================================
 
-Fullstack Developer
+Back-End Developer
 -------------------------------
 
-Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Digital Ocean) | MySQL | MongoDB | DevOps (Terraform, Ansible, Serverless)
+Back-End | PHP | Laravel | Docker | JavaScript | TypeScript | NodeJS | Cloud Jr. (AWS, GCP) | MySQL | MongoDB
 
 * 🌍  I'm from in Brazil
 * ✉️  You can contact me at [edsonelvira@hotmail.com]()
