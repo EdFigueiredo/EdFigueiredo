@@ -6,9 +6,9 @@ Fullstack Developer
 
 Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Digital Ocean) | MySQL | MongoDB | DevOps (Terraform, Ansible, Serverless)
 
-* 🌍  I'm based in Brazil
+* 🌍  I'm from in Brazil
 * ✉️  You can contact me at [edsonelvira@hotmail.com]()
-* 🚀  I'm currently working on CrmBônus
+* 🚀  I'm currently working on CrmBonus
 
 <a href="https://www.github.com/edgfigueiredo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/edfigueiredo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
